@@ -2,7 +2,6 @@ name: space_titanic
 channels:
   - conda-forge
 dependencies:
-  - python=3.6
   - numpy
   - scipy
   - scikit-learn
@@ -10,4 +9,3 @@ dependencies:
   - matplotlib
   - ipython
   - ipywidgets
-  - jupyter
