@@ -1,4 +1,4 @@
-name: reu
+name: space_titanic
 channels:
   - defaults
   - conda-forge
