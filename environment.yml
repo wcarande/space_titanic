@@ -1,0 +1,15 @@
+name: reu
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
