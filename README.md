@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wcarande/space_titanic/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wcarande/space_titanic/main?urlpath=https%3A%2F%2Fgithub.com%2Fwcarande%2Fspace_titanic%2Fblob%2Fmain%2Fnotebooks%2Fspace_titanic_prediction_live.ipynb)
