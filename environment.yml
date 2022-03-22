@@ -1,6 +1,5 @@
 name: space_titanic
 channels:
-  - defaults
   - conda-forge
 dependencies:
   - python=3.6
@@ -12,4 +11,3 @@ dependencies:
   - ipython
   - ipywidgets
   - jupyter
-  - jupyterlab
